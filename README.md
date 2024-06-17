@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Malshan20
+- 👋 Hi, I’m Malshan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning web development (react js, php, js, html5, css3)
 - 💞️ I’m looking to collaborate on not sure at the moment
 
 <!---
