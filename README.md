@@ -14,4 +14,4 @@
 ## 💬 Let's Connect!
 - 📧 [malshandissanayaka246@gmail.com](mailto:malshandissanayaka246@gmail.com)
 - 🌐 [GitHub](https://github.com/Malshan20)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/m-malshan-dissanayaka/](https://www.linkedin.com/in/maleesha-dissanayaka-6a116933a/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/maleesha-dissanayaka-6a116933a/)
