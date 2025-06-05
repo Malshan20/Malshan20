@@ -8,7 +8,7 @@
 ## 🛠 Technical Skills
 - **Front-End Development:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS, GSAP, Vite
 - **Back-End Development:** Node.js, Express.js, Next.js, PHP
-- **Databases:** MySQL, MongoDB, Docker
+- **Databases:** MySQL, MongoDB, Postresql
 - **Other Expertise:** RESTful API Development, Python, MERN Stack
 
 ## 💬 Let's Connect!
