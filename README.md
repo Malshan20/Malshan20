@@ -1,17 +1,17 @@
-# 👋 Hi, I’m Malshan
-- 💻 A **Full Stack Web Developer** with expertise in the **MERN stack**.
-- 🌐 Passionate about crafting responsive and efficient web solutions.
-- 📚 Currently pursuing a **B.Sc. in Software Engineering** and expanding my skills in **web development** (React.js, Node.js, PHP, HTML5, CSS3, and Tailwind CSS).
-- 🎯 Experienced in building and optimizing e-commerce platforms and dynamic web applications.
-- 💼 Open to collaborating on innovative projects that push the boundaries of web technologies.
+# 👋 Hi, I’m Malshan  
+- 💻 A **Full Stack Developer** passionate about building impactful, high-performing digital experiences.  
+- 🌐 Skilled in **React.js**, **Next.js**, **Node.js**, and **PostgreSQL**, with growing expertise in **React Native** for mobile app development.  
+- 📚 Currently pursuing a **B.Sc. in Software Engineering**, continuously expanding my skills in full-stack and mobile development.  
+- 🎯 Experienced in creating scalable web and mobile solutions — from dynamic dashboards to modern e-commerce platforms.  
+- 💼 Always open to collaborating on forward-thinking projects that challenge creativity and push technology limits.  
 
-## 🛠 Technical Skills
-- **Front-End Development:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS, GSAP, Vite
-- **Back-End Development:** Node.js, Express.js, Next.js, PHP
-- **Databases:** MySQL, MongoDB, Postresql
-- **Other Expertise:** RESTful API Development, Python, MERN Stack
+## 🛠 Technical Skills  
+- **Front-End Development:** React.js, Next.js, React Native, HTML5, CSS3, JavaScript, Tailwind CSS, GSAP 
+- **Back-End Development:** Node.js, Express.js, PHP  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Expertise:** RESTful APIs, Full Stack Web & Mobile Development  
 
-## 💬 Let's Connect!
-- 📧 [malshandissanayaka246@gmail.com](mailto:malshandissanayaka246@gmail.com)
-- 🌐 [GitHub](https://github.com/Malshan20)
-- 💼 [LinkedIn](https://www.linkedin.com/in/maleesha-dissanayaka-6a116933a/)
+## 💬 Let’s Connect!  
+- 📧 [malshandissanayaka246@gmail.com](mailto:malshandissanayaka246@gmail.com)  
+- 🌐 [GitHub](https://github.com/Malshan20)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maleeshamalshan/)
