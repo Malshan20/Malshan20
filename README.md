@@ -7,7 +7,7 @@
 
 ## 🛠 Technical Skills  
 - **Front-End Development:** React.js, Next.js, React Native, HTML5, CSS3, JavaScript, Tailwind CSS, GSAP 
-- **Back-End Development:** Node.js, Express.js, PHP  
+- **Back-End Development:** Node.js, PHP  
 - **Databases:** MySQL, PostgreSQL  
 - **Other Expertise:** RESTful APIs, Full Stack Web & Mobile Development  
 
