@@ -1,6 +1,6 @@
 # Hi there, I'm M. Malshan Dissanayaka 👋
 
-### **Co-Founder & CTO @ Schela AI | Full-Stack AI SaaS Engineer**
+### ** Full-Stack AI SaaS Engineer**
 
 I build and scale revenue-generating AI products at speed. With a blend of founder mindset and engineering discipline, I turn ideas into high-performing, user-centric software.
 
