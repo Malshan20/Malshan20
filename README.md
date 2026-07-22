@@ -5,7 +5,7 @@
 I build and scale revenue-generating AI products at speed. With a blend of founder mindset and engineering discipline, I turn ideas into high-performing, user-centric software.
 
 🌐 **Portfolio:** [portfolio-malshan.vercel.app](https://portfolio-malshan.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/malshan-dissanayaka](https://linkedin.com) *(Add your exact LinkedIn link)*  
+💼 **LinkedIn:** [https://www.linkedin.com/in/maleeshamalshan/](https://www.linkedin.com/in/maleeshamalshan/)   
 📧 **Email:** [malshandissanayaka246@gmail.com](mailto:malshandissanayaka246@gmail.com)  
 📍 **Location:** Narammala, Kurunegala, Sri Lanka *(Open to Relocation)*
 
