@@ -1,57 +1,107 @@
-# Hi there, I'm M. Malshan Dissanayaka 👋
+# Hi, I'm M. Malshan Dissanayaka 👋
 
-### ** Full-Stack AI SaaS Engineer**
+### Founder & Software Engineer
 
-I build and scale revenue-generating AI products at speed. With a blend of founder mindset and engineering discipline, I turn ideas into high-performing, user-centric software.
+I'm building **[Shimpilot](https://shimpilot.com)** — developer infrastructure that detects breaking API and SDK changes, traces affected code, generates migrations, validates the changes, and opens production-ready GitHub pull requests.
 
-🌐 **Portfolio:** [portfolio-malshan.vercel.app](https://portfolio-malshan.vercel.app)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/maleeshamalshan/](https://www.linkedin.com/in/maleeshamalshan/)   
-📧 **Email:** [malshandissanayaka246@gmail.com](mailto:malshandissanayaka246@gmail.com)  
-📍 **Location:** Narammala, Kurunegala, Sri Lanka *(Open to Relocation)*
+I like building products end-to-end: product architecture, backend systems, developer tooling, infrastructure, AI integrations, and the interfaces around them.
 
----
-
-## 🚀 Key Highlights & Impact
-
-- 🤖 **Co-Founder & CTO @ Schela AI** – Architecting full-stack AI hiring agents to automate end-to-end recruitment.
-- 📈 **Scaled QuillGlow** organically to **4,000+ active users**.
-- 💼 **8+ Monetized SaaS Products Launched & Sold** across US & Europe (Sweden, UK, etc.), including **2nd Brain** (acquired with 100+ active users).
-- 📱 **Cross-Platform Mobile Developer** – Built and shipped **Travel-I** using React Native & Expo.
+🌐 **Portfolio:** https://portfolio-malshan.vercel.app  
+🚀 **Shimpilot:** https://shimpilot.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/maleeshamalshan/  
+📧 **Email:** malshan@shimpilot.com  
+📍 **Sri Lanka · Open to relocation**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Currently Building
 
-### **Frontend & Mobile**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+### Shimpilot
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Founder · Building now**
 
-### **AI Integration & Tools**
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-F05032?style=for-the-badge&logo=groq&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Shimpilot watches software repositories for breaking changes in third-party APIs and SDKs.
+
+When a vendor changes something, Shimpilot can:
+
+- Detect the breaking API or SDK change
+- Find affected code across the repository
+- Verify the latest vendor documentation and migration requirements
+- Generate the required migration
+- Validate changes with AST analysis, type checking and tests
+- Re-scan the repository to verify the issue is resolved
+- Open a validated GitHub Draft PR for human review
+
+Initial focus is **TypeScript**, starting with providers such as **Stripe and OpenAI**, with plans to expand across more SDKs, languages and broader automated code repair.
+
+→ https://shimpilot.com
 
 ---
 
-## ⚡ What I Bring
+## 🧠 What I Work On
 
-* 💡 **Product-Driven Execution:** I ship products, not just code—from raw concept to paying customers.
-* ⚡ **Rapid Prototyping & Scale:** Consistently delivering under pressure with modern, high-performance stacks.
-* 🔒 **Production-Grade Systems:** Experience handling authentication, high-performance APIs, Stripe payments, and scalable DB architecture.
+- Developer infrastructure
+- API & SDK automation
+- AI-powered engineering systems
+- GitHub Apps and repository automation
+- Distributed background jobs
+- Production SaaS architecture
+- Full-stack product development
 
 ---
 
-📫 **Let's Connect!** Whether you're interested in AI SaaS, startup collaboration, or high-velocity engineering, feel free to reach out via [Email](mailto:malshandissanayaka246@gmail.com) or [LinkedIn](https://linkedin.com).
+## 🛠 Tech
+
+### Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Infrastructure & Backend
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Apps-181717?style=flat-square&logo=github&logoColor=white)
+
+### AI & APIs
+
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+---
+
+## ⚡ Builder Track Record
+
+- Built and shipped **11+ software projects**
+- Launched and sold **8+ SaaS products**
+- Built products across developer tools, AI, productivity and consumer software
+- Worked extensively with third-party APIs, SDKs and production integrations
+- Built products from initial architecture through deployment, users and handoff
+
+Previous products include **QuillGlow**, **2nd Brain**, **CanoryAI**, **Telivio**, and **Travel~I**.
+
+---
+
+## 🎯 What I'm Focused On
+
+Right now most of my attention is on **Shimpilot**:
+
+**breaking API change → affected code → migration → validation → GitHub PR**
+
+I'm currently putting the product in front of developers, learning from real repositories, expanding migration coverage, and improving the reliability of the automated migration pipeline.
+
+---
+
+## 🤝 Connect
+
+If you're a developer working with third-party APIs or SDKs and want to try Shimpilot, I'd love to hear what breaks in your workflow.
+
+**Shimpilot:** https://shimpilot.com  
+**LinkedIn:** https://www.linkedin.com/in/maleeshamalshan/  
+**Portfolio:** https://portfolio-malshan.vercel.app
